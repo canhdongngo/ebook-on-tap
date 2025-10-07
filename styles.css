@@ -91,6 +91,14 @@
             object-fit: cover;
             border-bottom: 1px solid #eee;
         }
+		.product-image-container {
+			cursor: pointer;
+			border-bottom: 1px solid #eee;
+}
+
+		.product-image-container:hover {
+			opacity: 0.9;
+}
 
         .product-info {
             padding: 15px;

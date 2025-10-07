@@ -272,24 +272,29 @@
         }
 
         // Hàm hiển thị sản phẩm quảng cáo
-        function displayProducts(products) {
-            // Tạo HTML cho tất cả sản phẩm
-            const productsHTML = products.map(product => `
-                <div class="product-card">
-                    <a href="${product.link}" target="_blank">
-                        <img src="${product.image}" alt="${product.name}" class="product-image">
-                    </a>
-                    <div class="product-info">
-                        <h3 class="product-name">${product.name}</h3>
-                        <p class="product-price">${product.price}</p>
-                        <a href="${product.link}" class="product-link" target="_blank">Xem chi tiết</a>
-                    </div>
+			function displayProducts(products) {
+		// Tạo HTML cho tất cả sản phẩm
+			const productsHTML = products.map(product => {
+        // Tạo một ID ngẫu nhiên cho sản phẩm để tránh trùng lặp
+        const productId = `product-${product.id}-${Date.now()}`;
+        
+        return `
+            <div class="product-card">
+                <div class="product-image-container" onclick="window.open('${product.link}', '_blank')">
+                    <img src="${product.image}" alt="${product.name}" class="product-image">
                 </div>
-            `).join('');
-            
-            // Cập nhật nội dung banner một cách mượt mà
-            productsList.innerHTML = productsHTML;
-        }
+                <div class="product-info">
+                    <h3 class="product-name">${product.name}</h3>
+                    <p class="product-price">${product.price}</p>
+                    <button class="product-link" onclick="window.open('${product.link}', '_blank')">Xem chi tiết</button>
+                </div>
+            </div>
+        `;
+    }).join('');
+    
+    // Cập nhật nội dung banner một cách mượt mà
+    productsList.innerHTML = productsHTML;
+}
 
         // Hàm hiển thị tài liệu
         function displayDocuments(docs) {

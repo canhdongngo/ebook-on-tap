@@ -2,73 +2,73 @@
         const allProducts = [
             {
                 id: 1,
-                name: "Máy Tính Casio FX-580VNX",
-                price: "650.000đ",
-                image: "https://cf.shopee.vn/file/sg-11134207-7ra3x-m4ydx5bvdygwbe",
-                link: "https://example.com/casio-fx580vnx"
+                name: "Nước Rửa Chén Bát Sunlight CHANH, TRÀ XANH VÀ THIÊN NHIÊN LÔ HỘI- Túi 3.1KG-3.3KG",
+                price: "27.498đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-mcqbq65mbezgad",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1138761704%2F26221365906"
             },
             {
                 id: 2,
-                name: "Bút Bi Thiên Long TL-027",
-                price: "25.000đ",
-                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-mdlh5gdctc4x0c",
-                link: "https://example.com/but-thien-long"
+                name: "Quạt Cầm Tay Turbo Tốc Độ Gió Cực Mạnh - Quạt Làm Mát Nhanh,Quạt tích điện mini pin cao 5000 mah",
+                price: "32.999đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ra0g-m9busx8k0e4i4f",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1056329624%2F25344932571"
             },
             {
                 id: 3,
-                name: "Vở Học Sinh 96 Trang",
-                price: "12.000đ",
-                image: "https://cf.shopee.vn/file/sg-11134201-7reqg-m1odzopnmuyw0e",
-                link: "https://example.com/vo-hoc-sinh"
+                name: "Thùng 10 bịch Khăn Giấy Rút Treo Tường Bông Sen Vàng 1152 Tờ, Tặng Kèm 5 Móc Treo Tường",
+                price: "165.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mf7txt5sv4egb1",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1361033839%2F28484059377"
             },
             {
                 id: 4,
-                name: "Balo Học Sinh Chống Gù",
-                price: "350.000đ",
-                image: "https://cf.shopee.vn/file/sg-11134201-7ravr-mb7p62fr85003b",
-                link: "https://example.com/balo-chong-gu"
+                name: "Cáp Sạc Nhanh 3 Đầu 120W Dài 1.2m. Cáp sạc hợp kim kẽm, có đèn LED, siêu bền, Dây sạc 3 in 1, Dây Sạc 3 Trong 1",
+                price: "9.600đ",
+                image: "https://cf.shopee.vn/file/sg-11134201-7rdy9-m02xc45o69pvdb",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1084393990%2F29711051963"
             },
             {
                 id: 5,
-                name: "Sách Tham Khảo Toán 12",
-                price: "120.000đ",
-                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mdzgrj00035s58",
-                link: "https://example.com/sach-toan-12"
+                name: "Nước Làm Sạch Và Tẩy Trang Cho Mọi Loại Da Garnier Micellar Cleansing Water 400ml",
+                price: "215.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7r98o-lqxqtn5zflc43d",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1118560772%2F22963742214"
             },
             {
                 id: 6,
-                name: "Máy Tính Vinacal 570ES Plus II",
-                price: "280.000đ",
-                image: "https://cf.shopee.vn/file/vn-11134207-7ra0g-m8n8rx4wg67if9",
-                link: "https://example.com/vinacal-570es"
+                name: "Combo 500 túi lọc rác bồn rửa chén [SIÊU TIẾT KIỆM] #340A x 5 GÓI",
+                price: "59.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7r98o-ltdhb92d7cn8f2",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F163690952%2F2617954274"
             },
             {
                 id: 7,
-                name: "Bộ Thước Kẻ Học Sinh",
-                price: "35.000đ",
-                image: "https://cf.shopee.vn/file/sg-11134201-824iz-mfcuds3gl3bh6c",
-                link: "https://example.com/thuoc-ke"
+                name: "Viên Treo Vệ Sinh Bồn Cầu Vim Power 5 | Sạch Thơm Đến 300 Lần Xả (50- 55g/viên)",
+                price: "27.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mfdexf9feya506",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F26947756%2F6479896522"
             },
             {
                 id: 8,
-                name: "Từ Điển Anh-Việt",
-                price: "85.000đ",
-                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mfbylwsldjbf24",
-                link: "https://example.com/tu-dien"
+                name: "Nước tẩy trang cho mọi loại da L'Oreal Paris 3in1 Micellar Water 400ml",
+                price: "280.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-m3pf4bpm0p1112",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F819801138%2F18524771908"
             },
             {
                 id: 9,
-                name: "Hộp Bút Chì Màu 36 Màu",
-                price: "75.000đ",
-                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mfdernzzhfkdc5",
-                link: "https://example.com/but-chi-mau"
+                name: "TẨY MỐC Ecogy, tẩy quần áo, mốc, thâm kim, máu, nhựa chuối,,,,",
+                price: "73.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-md4hnss0an301a",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F438470966%2F41161880825"
             },
             {
                 id: 10,
-                name: "Cặp Sách Chống Gù",
-                price: "420.000đ",
-                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-mc7bpvfaqmdx00",
-                link: "https://example.com/cap-sach"
+                name: "Lăn nách đá khoáng KLEAR Thái Lan ngăn mùi hiệu quả giảm thâm nách",
+                price: "42.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ra0g-m7eolh8wg30334",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F289081425%2F15567476242"
             }
         ];
 
@@ -184,7 +184,47 @@
                 grade: "10",
                 subject: "hoa",
                 description: "Làm Chủ Kiến Thức Hóa Học 10 – Tập 2 của Thầy Nguyễn Anh Phong)",
-                downloadUrl: "#"
+                downloadUrl: "https://archive.org/download/tai-lieu-on-tap/L%C3%A0m%20Ch%E1%BB%A7%20Ki%E1%BA%BFn%20Th%E1%BB%A9c%20H%C3%B3a%20H%E1%BB%8Dc%2010%20-%20T%E1%BA%ADp%202%20%28Th%E1%BA%A7y%20Nguy%E1%BB%85n%20Anh%20Phong%29.pdf"
+            },
+			{
+                id: 15,
+                title: "Toán Học Lớp 10",
+                grade: "10",
+                subject: "toan",
+                description: "Start Up- Kiến Thức Nền Tảng Toán 10 (Cô Ngọc Huyền LB)",
+                downloadUrl: "https://archive.org/download/tai-lieu-on-tap/Start%20Up-%20Ki%E1%BA%BFn%20Th%E1%BB%A9c%20N%E1%BB%81n%20T%E1%BA%A3ng%20To%C3%A1n%2010%20%28C%C3%B4%20Ng%E1%BB%8Dc%20Huy%E1%BB%81n%20LB%29.pdf"
+            },
+			{
+                id: 16,
+                title: "Toán Học Lớp 10",
+                grade: "10",
+                subject: "toan",
+                description: "Explorer – Kiến Thức Vận Dụng, Vận Dụng Cao Toán 10 (Cô Ngọc Huyền LB)",
+                downloadUrl: "https://archive.org/download/tai-lieu-on-tap/Explorer%20-%20Ki%E1%BA%BFn%20Th%E1%BB%A9c%20V%E1%BA%ADn%20D%E1%BB%A5ng%2C%20V%E1%BA%ADn%20D%E1%BB%A5ng%20Cao%20To%C3%A1n%2010%20%28C%C3%B4%20Ng%E1%BB%8Dc%20Huy%E1%BB%81n%20LB%29.pdf"
+            },
+			{
+                id: 17,
+                title: "Toán Học Lớp 10",
+                grade: "10",
+                subject: "toan",
+                description: "Phong Tỏa Toán Học 10 – Tập 1",
+                downloadUrl: "https://archive.org/download/tai-lieu-on-tap/Phong%20T%E1%BB%8Fa%20To%C3%A1n%20H%E1%BB%8Dc%2010%20-%20T%E1%BA%ADp%201.pdf"
+            },
+			{
+                id: 18,
+                title: "Toán Học Lớp 10",
+                grade: "10",
+                subject: "toan",
+                description: "Phong Tỏa Toán Học 10 – Tập 2",
+                downloadUrl: "https://archive.org/download/tai-lieu-on-tap/Phong%20T%E1%BB%8Fa%20To%C3%A1n%20H%E1%BB%8Dc%2010%20-%20T%E1%BA%ADp%202.pdf"
+            },
+			{
+                id: 19,
+                title: "Vật Lý Lớp 11",
+                grade: "11",
+                subject: "ly",
+                description: "Chinh Phục Kiến Thức Vật Lý 11",
+                downloadUrl: "https://archive.org/download/tai-lieu-on-tap/Chinh%20Ph%E1%BB%A5c%20Ki%E1%BA%BFn%20Th%E1%BB%A9c%20V%E1%BA%ADt%20L%C3%BD%2011.pdf"
             }
         ];
 

@@ -69,6 +69,20 @@
                 price: "42.000đ",
                 image: "https://cf.shopee.vn/file/vn-11134207-7ra0g-m7eolh8wg30334",
                 link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F289081425%2F15567476242"
+            },
+			{
+                id: 11,
+                name: "Giấy rút treo tường- giấy ăn - giấy vệ sinh 1280 tờ Babee",
+                price: "20.000đ",
+                image: "https://cf.shopee.vn/file/sg-11134201-7rdxt-lzzpskptiz5gef",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1345524316%2F28710791883"
+            },
+			{
+                id: 12,
+                name: "COMBO 2 Túi Nước Xả Vải Downy Hương Nước Hoa Huyền Bí 1,45L",
+                price: "255.900đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-m1tzov54sl33dc",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1345524316%2F28710791883"
             }
         ];
 
@@ -225,6 +239,38 @@
                 subject: "ly",
                 description: "Chinh Phục Kiến Thức Vật Lý 11",
                 downloadUrl: "https://archive.org/download/tai-lieu-on-tap/Chinh%20Ph%E1%BB%A5c%20Ki%E1%BA%BFn%20Th%E1%BB%A9c%20V%E1%BA%ADt%20L%C3%BD%2011.pdf"
+            },
+			{
+                id: 20,
+                title: "Ngữ Văn",
+                grade: "10+",
+                subject: "van",
+                description: "Phần 1 - Rèn Kĩ Năng Xử Lý Và Chuyên Sâu Luyện Đề Chương Trình Mới (Cô Trần Thùy Dương)",
+                downloadUrl: "#"
+            },
+			{
+                id: 21,
+                title: "Ngữ Văn",
+                grade: "10+",
+                subject: "van",
+                description: "Phần 2 - Rèn Kĩ Năng Xử Lý Và Chuyên Sâu Luyện Đề Chương Trình Mới (Cô Trần Thùy Dương)",
+                downloadUrl: "#"
+            },
+			{
+                id: 22,
+                title: "Đánh Giá Năng Lực",
+                grade: "10+",
+                subject: "tonghop",
+                description: "Luyện Thi ĐGNL Chuyên Đề Tư Duy Định Lượng",
+                downloadUrl: "#"
+            },
+			{
+                id: 23,
+                title: "Đánh Giá Năng Lực",
+                grade: "10+",
+                subject: "tonghop",
+                description: "Luyện Thi ĐGNL Chuyên Đề Tư Duy Định Tính",
+                downloadUrl: "#"
             }
         ];
 
@@ -366,7 +412,8 @@
                 'hoa': 'Hóa học',
                 'van': 'Ngữ văn',
                 'anh': 'Tiếng Anh',
-                'sinh': 'Sinh học'
+                'sinh': 'Sinh học',
+				'tonghop': 'Tổng Hợp'
             };
             
             return subjectNames[subjectCode] || subjectCode;

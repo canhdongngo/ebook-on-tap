@@ -335,7 +335,7 @@
                 grade: "10+",
                 subject: "su",
                 description: "Làm Chủ Kiến Thức Trọng Tâm Ôn Thi Tốt Nghiệp và ĐGNL",
-                downloadUrl: "#"
+                downloadUrl: "https://drive.google.com/file/d/1yjYbwlbgkrtvs0tvegeiun-azpz18S2j/view?usp=drive_link"
             },
 			{
                 id: 26,

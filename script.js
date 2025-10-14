@@ -83,6 +83,55 @@
                 price: "255.900đ",
                 image: "https://cf.shopee.vn/file/vn-11134207-7ras8-m1tzov54sl33dc",
                 link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1345524316%2F28710791883"
+            },
+			{
+                id: 13,
+                name: "Cốc sứ Shiba Inu dễ thương sáng tạo cốc nước cặp đôi gia dụng phong cách instagram giá trị cao có nắp cốc đựng quà tặng",
+                price: "88.587đ",
+                image: "https://cf.shopee.vn/file/sg-11134201-7rd3y-lu94qjst8mvsb4",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1231397187%2F24374982685"
+            },
+			{
+                id: 14,
+                name: "Giấy ăn rút Topgia thùng 40 gói đa sắc cao cấp 240 tờ 4 lớp, dập vân 4D, mềm mịn, thấm hút tốt",
+                price: "109.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mf0jcx6f2byn46",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1016604648%2F22352022576"
+            },
+			{
+                id: 15,
+                name: "Sữa rửa mặt Cerave 236ml dưỡng ẩm sữa rửa mặt cho da dầu mụn ,da khô",
+                price: "109.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-m366j5wxui98df",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F664873206%2F25221286391"
+            },
+			{
+                id: 16,
+                name: "Bình nước thủy tinh bọc nhựa giữ nhiệt 450ml có ống hút dây đeo tiện lợi, nắp thú dễ thương BN26",
+                price: "39.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7r98o-lnmnn6i0lkh948",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F149480246%2F21594976791"
+            },
+			{
+                id: 17,
+                name: "Túi màng bọc thực phẩm chất liệu PE treo tường dạng rút TopGia, tiện lợi, có chun co dãn siêu dai",
+                price: "59.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mfcnomxfz6rtb9",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F729014007%2F42802509340"
+            },
+			{
+                id: 18,
+                name: "Quà Tặng Sinh Nhật Dành Cho Các Bạn Nữ, Bạn Gái Cốc uống nước bằng sứ hình heo dễ thương Món quà rất ý nghĩa ZZB",
+                price: "80.000đ",
+                image: "https://cf.shopee.vn/file/sg-11134201-7rd3n-lu3njblc7tsc99",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F1231397187%2F24224056005"
+            },
+			{
+                id: 19,
+                name: "Quà Tặng Sinh Nhật Dành Cho Các Bạn Nữ, Bạn Gái Cốc uống nước bằng sứ hình heo dễ thương Món quà rất ý nghĩa ZZB",
+                price: "80.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-7ras8-mbtaweaj9klqd2",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F837758567%2F28169687116"
             }
         ];
 
@@ -258,19 +307,67 @@
             },
 			{
                 id: 22,
-                title: "Đánh Giá Năng Lực",
+                title: "Đánh Giá Năng Lực - Định Lượng",
                 grade: "10+",
                 subject: "tonghop",
                 description: "Luyện Thi ĐGNL Chuyên Đề Tư Duy Định Lượng",
-                downloadUrl: "#"
+                downloadUrl: "https://drive.google.com/file/d/1apU4WIC13d7Ov9ZC8NnMb8VdsfRtMLOK/view?usp=drive_link"
             },
 			{
                 id: 23,
-                title: "Đánh Giá Năng Lực",
+                title: "Đánh Giá Năng Lực - Định Tính",
                 grade: "10+",
                 subject: "tonghop",
                 description: "Luyện Thi ĐGNL Chuyên Đề Tư Duy Định Tính",
+                downloadUrl: "https://drive.google.com/file/d/1Q_sWyE-r3WXl35ehI4MD6xJLSNswBfbN/view?usp=drive_link"
+            },
+			{
+                id: 24,
+                title: "Bài Toán Trắc Nghiệm Đúng Sai",
+                grade: "10+",
+                subject: "toan",
+                description: "50 Bài Toán Trắc Nghiệm Đúng Sai - Chọn Lọc(Đỗ Văn Đức)",
+                downloadUrl: "https://drive.google.com/file/d/14iCAR8KEqmUPfqJBbqvcGsyopYEG6bfe/view?usp=drive_link"
+            },
+			{
+                id: 25,
+                title: "Đánh Giá Năng Lực - Lịch Sử",
+                grade: "10+",
+                subject: "su",
+                description: "Làm Chủ Kiến Thức Trọng Tâm Ôn Thi Tốt Nghiệp và ĐGNL",
                 downloadUrl: "#"
+            },
+			{
+                id: 26,
+                title: "Đánh Giá Năng Lực - Lịch Sử",
+                grade: "10+",
+                subject: "su",
+                description: "Rèn Luyện Đúng Sai 4 Nguyên Tắc Độc Quyền Chinh Phục Lịch Sử (Cô Lan Hương)",
+                downloadUrl: "https://drive.google.com/file/d/1PulQW4YF5vrIKLKnm_TQBSGZCu6beRdC/view?usp=drive_link"
+            },
+			{
+                id: 27,
+                title: "Cơ Bản Bản Và Nâng Cao - Lịch Sử",
+                grade: "10+",
+                subject: "su",
+                description: "Hệ Thống Kiến Thức Lịch Sử Cơ Bản Bản Và Nâng Cao Ôn Thi TN Và ĐGNL",
+                downloadUrl: "https://drive.google.com/file/d/1SK-exPpRsSEegNcY87R7lIkoNFdYhJk9/view?usp=drive_link"
+            },
+			{
+                id: 28,
+                title: "Lý Luận Văn Học",
+                grade: "10+",
+                subject: "van",
+                description: "Lý Luận Văn Học Cùng Rubik Tập 1",
+                downloadUrl: "https://drive.google.com/file/d/1A1IBDtT_uC-L-RiHydoyzjJiuHHIZU_K/view?usp=drive_link"
+            },
+			{
+                id: 29,
+                title: "Lý Luận Văn Học",
+                grade: "10+",
+                subject: "van",
+                description: "Lý Luận Văn Học Cùng Rubik Tập 1",
+                downloadUrl: "https://drive.google.com/file/d/1uhIgsAnDJavkFtdt_LtCOEwYbdBXFWVg/view?usp=drive_link"
             }
         ];
 
@@ -413,7 +510,8 @@
                 'van': 'Ngữ văn',
                 'anh': 'Tiếng Anh',
                 'sinh': 'Sinh học',
-				'tonghop': 'Tổng Hợp'
+				'tonghop': 'Tổng Hợp',
+				'su': 'Lịch Sử'
             };
             
             return subjectNames[subjectCode] || subjectCode;

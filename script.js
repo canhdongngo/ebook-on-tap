@@ -132,6 +132,20 @@
                 price: "80.000đ",
                 image: "https://cf.shopee.vn/file/vn-11134207-7ras8-mbtaweaj9klqd2",
                 link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F837758567%2F28169687116"
+            },
+			{
+                id: 20,
+                name: "Combo 2 Nước Giặt ARIEL Chuyên Gia Cửa Trên Ngăn Lem Màu Hương Downy Nắng Sớm/ Nước Hoa/ Oải Hương Túi 4.1KG",
+                price: "497.000đ",
+                image: "https://cf.shopee.vn/file/vn-11134207-820l4-mfry58usbtvt79",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&l_cd1=3&l_cd2=0&u_id=&tu=https%3A%2F%2Fshopee.vn%2Fproduct%2F148910286%2F10074349364"
+            },
+			{
+                id: 21,
+                name: "Mật Ong Hoa Nguyên Chất 1000ML - Tiệm Phố Núi",
+                price: "139.000đ",
+                image: "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m9xvtkzbsc4u11.webp",
+                link: "https://click.adpia.vn/tracking.php?m=shopee&a=A100116734&l=9999&tu=https%3A%2F%2Fs.shopee.vn%2F5pzp15GK40"
             }
         ];
 
@@ -368,6 +382,22 @@
                 subject: "van",
                 description: "Lý Luận Văn Học Cùng Rubik Tập 1",
                 downloadUrl: "https://drive.google.com/file/d/1uhIgsAnDJavkFtdt_LtCOEwYbdBXFWVg/view?usp=drive_link"
+            },
+			{
+                id: 30,
+                title: "20 Đề Lịch Sử Tuyển Chọn",
+                grade: "10+",
+                subject: "su",
+                description: "20 Đề Lịch Sử Tuyển Chọn Ôn Thi TN THPT Và ĐGNL 2026 (Cô Lan Hương)",
+                downloadUrl: "#"
+            },
+			{
+                id: 31,
+                title: "Địa Lý Cơ Bản Bản Và Nâng Cao Ôn Thi TN Và ĐGNL",
+                grade: "10+",
+                subject: "dia",
+                description: "Hệ Thống Kiến Thức Địa Lý Cơ Bản Bản Và Nâng Cao Ôn Thi TN Và ĐGNL (Thầy Đàm Thanh Tùng)",
+                downloadUrl: "#"
             }
         ];
 
@@ -511,7 +541,8 @@
                 'anh': 'Tiếng Anh',
                 'sinh': 'Sinh học',
 				'tonghop': 'Tổng Hợp',
-				'su': 'Lịch Sử'
+				'su': 'Lịch Sử',
+				'dia': 'Địa Lý'
             };
             
             return subjectNames[subjectCode] || subjectCode;
